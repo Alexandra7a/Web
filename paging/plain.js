@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 });
             }
         }
-        request.open('GET', 'http://localhost:80/mylab/persoane.php?page=' + page, true);
+        request.open('GET', 'http://localhost:80/mylab/pb2/persoane.php?page=' + page, true);
         request.send();
     }
 

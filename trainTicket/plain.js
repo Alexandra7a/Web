@@ -31,7 +31,7 @@ function loadPlecari() {
 
   }
 
-  request.open('GET', 'http://localhost:80/mylab/trainDeparture.php', true);
+  request.open('GET', 'http://localhost:80/mylab/pb1/trainDeparture.php', true);
   request.send();
 }
 
@@ -55,7 +55,7 @@ function loadSosiri() {
   var plecareValue=document.getElementById("plecari").value;
   var encodedPlecare = encodeURIComponent(plecareValue);
 
-  request.open('GET', 'http://localhost:80/mylab/trainArrivals.php?plecare='+encodedPlecare, true);
+  request.open('GET', 'http://localhost:80/mylab/pb1/trainArrivals.php?plecare='+encodedPlecare, true);
   request.send();
 }
 

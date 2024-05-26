@@ -7,7 +7,7 @@ $(document).ready(function() {
 
     function nrElems() {
         $.ajax({
-            url: 'http://localhost:80/mylab/persoane.php',
+            url: 'http://localhost:80/mylab/pb2/persoane.php',
             method: 'GET',
             success: function(data) {
                 elems = JSON.parse(data);
@@ -19,7 +19,7 @@ $(document).ready(function() {
 
     function getPage() {
         $.ajax({
-            url: 'http://localhost:80/mylab/persoane.php',
+            url: 'http://localhost:80/mylab/pb2/persoane.php',
             method: 'GET',
             data: { page: page },
             success: function(data) {
