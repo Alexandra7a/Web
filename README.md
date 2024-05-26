@@ -10,7 +10,7 @@
 ## Paging for a list of people
 * The data is requested from the DB and brought to frontend
 * The people's data is displayed as a paragraph
-* The 'next', 'previous' buttons navigate through the batches of data, keeping track of  the first and last page and making the specific button disabled<br><br>
+* The 'next', 'previous' buttons navigate through the batches of data, keeping track of the first and last page and making the specific button disabled<br><br>
 
   ![image](https://github.com/Alexandra7a/Web/assets/63046754/9c55489b-0e94-4a77-93ec-b5d3d650ee3f)
 
