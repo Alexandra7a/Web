@@ -10,10 +10,15 @@
 ## Paging for a list of people
 * the data is requested from the DB and brought to frontend
 * the people's data is displayed as a paragraph
-* 'next', 'previus' buttons navigate through the batches of data, keeping track of  the first and last page and making the specific button disabled
+* 'next', 'previus' buttons navigate through the batches of data, keeping track of  the first and last page and making the specific button disabled<br><br>
 
   ![image](https://github.com/Alexandra7a/Web/assets/63046754/9c55489b-0e94-4a77-93ec-b5d3d650ee3f)
 
-
+## People
+A read, update person example
+* selecting from a list of IDs, fields are completed with specific data
+* read the person's details
+* edit them and save them<br><br>
+![image](https://github.com/Alexandra7a/Web/assets/63046754/23aa2d12-9094-4b63-b2a0-9c3610f7f86f)
 
 
