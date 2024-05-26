@@ -21,4 +21,10 @@ A read, update person example
 * edit them and save them<br><br>
 ![image](https://github.com/Alexandra7a/Web/assets/63046754/23aa2d12-9094-4b63-b2a0-9c3610f7f86f)
 
+## Tic Tac Toe
+* a matrix 3x3 to make a game between the player and the computer
+* the player makes a move and then the computer choose one, transfering the board throught Ajax requests
+* the checks for the winer is done on the backend<br><br>
+![image](https://github.com/Alexandra7a/Web/assets/63046754/66454f42-a185-4f1b-ade4-7339532b166b)
 
+  
